@@ -1,0 +1,10 @@
+# Alternative Docker-based deployment for Render
+services:
+  - type: web
+    name: portfolio-docker
+    dockerfilePath: ./dockerfile
+    dockerContext: .
+    envVars:
+      - key: NODE_ENV
+        value: production
+
