@@ -10,8 +10,8 @@ export const personalInfo = {
 export const aboutMe = {
   summary: "I am a passionate Software Development Engineer with expertise in building scalable and efficient applications using .NET technologies. With a strong foundation in computer science and hands-on experience in cloud platforms, I specialize in developing robust backend systems, RESTful APIs, and enterprise-grade solutions.",
   highlights: [
-    "2+ years of professional experience in software development",
-    "Expertise in .NET Core, C#, and cloud technologies (Azure)",
+    "3 years of professional experience in software development",
+    "Expertise in .NET Core, C#, Blazor Server Application",
     "Experience with microservices architecture and containerization",
     "Strong problem-solving skills and attention to code quality",
   ],
@@ -19,7 +19,7 @@ export const aboutMe = {
 
 export const skills = {
   "Programming Languages": [
-    "C#", ".NET", ".NET Core 8+", "ASP.NET", "Web API", "MVC", "Javascript", "JSON", "XML"
+    "C#", ".NET", ".NET Core 8+", "ASP.NET", "Web API", "MVC", "Javascript", "JSON", "XML", "Blazor Server Application"
   ],
   "Databases": [
     "MS SQL Server", "T-SQL", "Stored Procedures", "PostgreSQL"
@@ -42,7 +42,7 @@ export const experience = [
     location: "Pune",
     period: "Jul 2023 - Present",
     description: [
-      "Developed and maintained enterprise-grade applications using .NET Core and C#",
+      "Developed and maintained enterprise-grade applications using .NET Core, Blazor Server Application and C#",
       "Designed and implemented RESTful APIs for various microservices",
       "Collaborated with cross-functional teams to deliver high-quality software solutions",
       "Implemented CI/CD pipelines using Azure DevOps and GitLab",
